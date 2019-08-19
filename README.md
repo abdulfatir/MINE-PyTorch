@@ -1,6 +1,10 @@
-# MINE: Mutual Information Neural Estimation in pytroch
-https://arxiv.org/pdf/1801.04062.pdf
+# MINE: Mutual Information Neural Estimation in PyTorch
+PyTorch implementation of MINE: [Mutual Information Neural Estimation](https://arxiv.org/abs/1801.04062).
 
-## Results: Mine vs Traditional
+## Data
+
+![data](./fig/data.png)
+
+## Results
 
 ![results](./fig/results.png)
